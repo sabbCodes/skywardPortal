@@ -2,6 +2,8 @@
 
 **Skyward Guilds** is an on-chain RPG game MVP built for the Honeycomb Protocol bounty. It features on-chain progression, player traits, and mission logic, all powered by the Honeycomb Protocol on Solana. Play, progress, and save your adventure on-chain!
 
+Live at: [Skyward Guilds](https://comforting-marigold-2cb6c1.netlify.app/)
+
 ---
 
 ## Table of Contents
