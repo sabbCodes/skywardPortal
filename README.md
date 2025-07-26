@@ -63,7 +63,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/skyward-guilds.git
+   git clone https://github.com/sabbCodes/skywardPortal.git
    cd skyward-guilds
    ```
 
