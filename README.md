@@ -3,7 +3,7 @@
 **Skyward Guilds** is an on-chain RPG game MVP built for the SuperteamNG ft Honeycomb Protocol bounty. It features on-chain progression, player traits, and mission logic, all powered by the Honeycomb Protocol on Solana. Play, progress, and save your adventure on-chain!
 
 Live at: [Skyward Guilds](https://comforting-marigold-2cb6c1.netlify.app/)
-Demo: [Watch demo](https://youtu.be/GAwpnBDG-WU)
+Demo: [Watch demo](https://youtu.be/Gf14DbJxp5g)
 
 ---
 
@@ -102,6 +102,7 @@ http://localhost:8080
 
 ## Development
 
+- **Get Honeynet SOL:** ``` solana airdrop <amount> <wallet address> -u https://rpc.test.honeycombprotocol.com ``` to sign transactions.
 - **Connect your wallet** (Phantom or Solflare) to start playing.
 - **Play the game:** Complete missions, fight enemies, and collect loot.
 - **Save Progress:** Click the "Save Progress" button after a victory/defeat to persist your progress on-chain (requires wallet signature).
